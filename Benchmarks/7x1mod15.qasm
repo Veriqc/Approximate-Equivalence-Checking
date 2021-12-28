@@ -22,7 +22,3 @@ cx q[2],q[1];
 cx q[4],q[1];
 cx q[1],q[4];
 cx q[4],q[1];
-measure q[1] -> c[1];
-measure q[2] -> c[2];
-measure q[3] -> c[3];
-measure q[4] -> c[4];
